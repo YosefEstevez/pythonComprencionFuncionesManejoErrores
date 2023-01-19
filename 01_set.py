@@ -14,8 +14,10 @@ print(set_from_string)
 set_from_tuples = set(('abc', 'cbv', 'as', 'abc'))
 print(set_from_tuples)
 
+#set permite ver los unicos numeros o strings
 numbers = [1,2,3,1,2,3,4]
 set_numbers = set(numbers)
 print(set_numbers)
+#se cambia a lista con el formato list
 unique_numbers = list(set_numbers)
 print(unique_numbers)
