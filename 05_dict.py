@@ -21,7 +21,7 @@ population_v2 = { country: random.randint(1, 100)  for country in countries}
 print(population_v2)
 '''
 names = ['yosef', 'angelica', 'rico']
-ages = [12, 56, 98]
+ages = [27, 56, 9]
 
 #creacion de diccionario a partir de listas
 #zip = union entre listas pero debe preceder list y se convierte en tupla
