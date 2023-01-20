@@ -9,6 +9,7 @@ print(numbers)
 numbers_v2 = [element * 2 for element in range(1, 11)]
 print(numbers_v2)
 '''
+# % significa modulo que es el resultado de una divicion
 numbers = []
 for i in range(1, 11):
   if i % 2 == 0:
