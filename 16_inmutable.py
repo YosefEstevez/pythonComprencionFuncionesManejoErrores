@@ -19,5 +19,7 @@ def add_taxes(item):
   return new_item
 
 new_items = list(map(add_taxes, items))
+print('New list')
 print(new_items)
+print('Old list')
 print(items)
