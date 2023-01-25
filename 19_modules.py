@@ -1,6 +1,8 @@
+#dindica la ubicacion o desde donde se esta corriendo la informacion
 import sys
 print(sys.path)
 
+#re = expresiones regulares (ver platzi)
 import re
 text = 'Mi numero de telefono es 311 123 121, el codigo del pais es 57, mi numero de la suerte 3'
 result = re.findall('[0-9]+', text)
