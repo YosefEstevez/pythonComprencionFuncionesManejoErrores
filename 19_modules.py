@@ -20,3 +20,4 @@ import collections
 numbers = [1,1,2,1,2,1,4,5,3,3,21]
 counter = collections.Counter(numbers)
 print(counter)
+
