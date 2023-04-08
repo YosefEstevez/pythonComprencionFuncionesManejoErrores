@@ -20,3 +20,6 @@ print(set_a - set_b)
 set_c = set_a.symmetric_difference(set_b)
 print(set_c)
 print(set_a ^ set_b)
+ 
+
+ # esto es una trem
